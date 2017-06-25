@@ -3,3 +3,5 @@ Rob is an iRobot Create® designed to follow a user with a designated target mar
 
 ## Setup
 Requires [OpenCV][opencv] before doing anything.
+
+[opencv]: https://github.com/opencv/opencv
